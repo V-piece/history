@@ -1,0 +1,24 @@
+\documentclass[fleqn,dvipdfmx,twocolumn]{jsarticle}
+\usepackage{ascmac,multicol,ulem,tikz,amsmath,amssymb,fancybox,}
+\usepackage[inline]{enumitem}
+\usepackage{multicol} 
+\usetikzlibrary{intersections,calc,arrows.meta}
+\title{産業革命と}
+\author{
+  E3(12)木内 大
+}
+\date{}
+\begin{document}
+\maketitle
+\section{このテーマを選択した理由}
+
+\section{産業革命の概要}
+産業革命は,18世紀のイギリスから始まった.
+\section{おわりに}
+あ
+\section*{参考文献}
+\begin{enumerate}
+    \item あ
+    \item い
+\end{enumerate}
+\end{document}
